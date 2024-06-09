@@ -1,4 +1,3 @@
-## Renato Oliva, desenvolvedor blockchain!
 <div align="center">
   <a href="https://github.com/renatooliva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatooliva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
