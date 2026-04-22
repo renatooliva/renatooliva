@@ -123,21 +123,6 @@ Este repositório é um **mapa das tecnologias, práticas e padrões** que domin
 
 ---
 
-## 📊 GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=renatooliva&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatooliva&theme=github_dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
----
-
 <p align="center">
   <em>Interessado em colaborar? Chame no <a href="https://www.linkedin.com/in/renato-o-junior/">LinkedIn</a> ou mande um <a href="mailto:renatoolivajunior@gmail.com">e-mail</a>.</em>
 </p>
