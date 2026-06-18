@@ -70,13 +70,13 @@ Este repositório é um **mapa das tecnologias, práticas e padrões** que domin
 
 ## 🗄 Banco de Dados & Cache
 
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**Domínio:** Modelagem relacional e NoSQL · Tuning de queries · Índices · Particionamento · Replicação · Estratégias de cache (cache-aside, write-through, TTL).
-
+**Domínio:** Modelagem relacional e NoSQL · SQL Server · MySQL · PostgreSQL · MongoDB · Tuning de queries · Índices · Procedures · Views · Particionamento · Replicação · ETL · Estratégias de cache (Redis, cache-aside, write-through, TTL).
 ---
 
 ## 📨 Mensageria & Streaming
