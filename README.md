@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=160&section=header&text=Renato%20Oliva&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+Architect+%7C+Tech+Lead+%7C+Staff+Engineer;Laravel+%E2%80%A2+Python+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Event-Driven;SRE+%E2%80%A2+FinOps+%E2%80%A2+DORA+%E2%80%A2+Observabilidade" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Engenheiro+de+Software+%7C+Desenvolvedor;Especialista+em+IA+%E2%80%A2+PHP+%E2%80%A2+Laravel;Python+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Event-Driven" alt="Typing SVG" />
 </a>
 
 <p>
@@ -15,7 +15,7 @@
 
 </div>
 
-Arquiteto de software e tech lead focado em plataformas backend de alta escala, arquitetura orientada a eventos e engenharia de confiabilidade (SRE/FinOps). Este README é o mapa das tecnologias e práticas que aplico no dia a dia.
+Engenheiro de software e desenvolvedor, especialista em IA e PHP, focado em plataformas backend de alta escala, arquitetura orientada a eventos e engenharia de confiabilidade (SRE/FinOps). Este README é o mapa das tecnologias e práticas que aplico no dia a dia.
 
 <br />
 
@@ -53,6 +53,20 @@ Arquiteto de software e tech lead focado em plataformas backend de alta escala, 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **Domínio:** APIs REST de alta performance, workers assíncronos, jobs e filas, arquitetura modular, DDD, SOLID, Clean Architecture, testes automatizados (PHPUnit, Pest, PyTest).
+</details>
+
+<details>
+<summary><b>IA & Machine Learning</b></summary>
+<br />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Domínio:** LLMs & agentes, RAG, prompt engineering, modelagem preditiva, classificação, segmentação de clientes, análise exploratória de dados.
 </details>
 
 <details>
@@ -141,14 +155,13 @@ Arquiteto de software e tech lead focado em plataformas backend de alta escala, 
 | **Resiliência** | Retry · Circuit Breaker · Idempotência · Outbox Pattern · Saga |
 | **Escalabilidade** | Cache distribuído · Sharding · Read replicas · Load balancing |
 
-## 📐 Engenharia & Liderança Técnica
+## 📐 Engenharia & Boas Práticas
 
 | Eixo | O que aplico |
 |---|---|
 | **Métricas DORA** | Deploy frequency · Lead time · Change failure rate · MTTR |
 | **FinOps** | Rightsizing · Reserved instances · Tagging · Otimização de custo cloud |
 | **Governança** | ADRs · RFCs · Design reviews · Tech radar |
-| **Liderança** | Mentoria · Career ladder · 1:1s · Squads multidisciplinares |
 | **Agile** | Scrum · Kanban · Shape Up |
 
 <br />
