@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=160&section=header&text=Renato%20Oliva&fontSize=42&fontColor=58A6FF&animation=fadeIn&fontAlignY=38" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=120&section=header" width="100%" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Engenheiro+de+Software+%7C+Desenvolvedor;Especialista+em+IA+%E2%80%A2+PHP+%E2%80%A2+Laravel;Python+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Event-Driven" alt="Typing SVG" />
 </a>
 
