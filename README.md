@@ -20,12 +20,12 @@ Arquiteto de software e tech lead focado em plataformas backend de alta escala, 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=renatooliva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api?username=renatooliva&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
   <img src="https://streak-stats.demolab.com?user=renatooliva&theme=tokyonight&hide_border=true" width="49%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatooliva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
+  <img src="https://github-readme-stats-sigma-rouge.vercel.app/api/top-langs/?username=renatooliva&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" />
 </div>
 
 <br />
