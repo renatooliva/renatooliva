@@ -159,15 +159,3 @@ Engenheiro de software e desenvolvedor, especialista em IA e PHP, focado em plat
 
 <br />
 
-<div align="center">
-
-### 📬 Vamos conversar?
-
-<a href="https://www.linkedin.com/in/renato-o-junior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:renatoolivajunior@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=renatooliva&style=for-the-badge&color=58A6FF&label=Visualizações+do+perfil" alt="Visitor Badge" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1B2735&height=100&section=footer" width="100%" />
-
-</div>
