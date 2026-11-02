@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3200&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Engenheiro+de+Software+%7C+Desenvolvedor;Especialista+em+IA+%E2%80%A2+PHP+%E2%80%A2+Laravel;Python+%E2%80%A2+AWS+%E2%80%A2+Kubernetes+%E2%80%A2+Event-Driven" alt="Typing SVG" />
 </a>
 
-<p>
-  <a href="https://www.linkedin.com/in/renato-o-junior/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:renatoolivajunior@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.resulogic.com"><img src="https://img.shields.io/badge/Site-181717?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site" /></a>
-  <img src="https://img.shields.io/badge/Brasil-009C3B?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brasil" />
-</p>
-
 </div>
 
 Engenheiro de software e desenvolvedor, especialista em IA e PHP, focado em plataformas backend de alta escala, arquitetura orientada a eventos e engenharia de confiabilidade (SRE/FinOps). Este README é o mapa das tecnologias e práticas que aplico no dia a dia.
